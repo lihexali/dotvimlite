@@ -1,6 +1,6 @@
  syntax on
  set number
- colorscheme desert
+ colorscheme peachpuff
  set tabstop=4
  set shiftwidth=4
  set nobackup
